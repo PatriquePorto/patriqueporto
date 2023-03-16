@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at New Style Provedor de Internet
-- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, SQL, NODE, PHOENIX FRAMEWORK AND ELIXIR.
+- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, SQL, POSTGRESQL, NODE, PHOENIX FRAMEWORK AND ELIXIR.
 - 📫 How to reach me: @patriqueporto
 
 <h3 align="left">Languages and Tools:</h3>
