@@ -17,6 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/patrique.porto/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/patrique-pereira-porto-82b76610a/"" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/patriqueporto/" target="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrique-pereira-porto-82b76610a/"" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/patriqueporto/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="" height="30" width="40" /></a>
 </p>
