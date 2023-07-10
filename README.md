@@ -22,3 +22,8 @@
 <a href="https://www.linkedin.com/in/patrique-pereira-porto-82b76610a/"" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/patriqueporto/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">My web site portfolio</h3>
+<p align="left">
+<a href="https://portfolio-patrique-porto.vercel.app/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1084/1084269.png" alt="" height="30" width="40"/></a>
+</p>
