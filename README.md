@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at New Style Provedor de Internet
-- 🌱 Front-End Developer, HTML5, CSS3, JAVASCRIPT, JQUERY, SQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW AND ELIXIR.
+- 🌱 I'm a  Front-End Developer, HTML5, CSS3, JAVASCRIPT, JQUERY, SQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW AND ELIXIR.
 - 📫 How to reach me: @patriqueporto
 
 <h3 align="left">Languages and Tools:</h3>
