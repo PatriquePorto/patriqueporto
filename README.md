@@ -16,7 +16,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="65" height="65"/> - </a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="figma" width="65" height="65"/> - </a> 
  <a href="https://nodejs.org/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="NodeJS" width="65" height="65"/> - </a> 
-<a href="https://react.dev" target="_blank"> <img src="https://www.freecodecamp.org/portuguese/news/content/images/size/w2000/2023/03/Ekran-Resmi-2019-11-18-18.08.13.png" alt="ReactJs" width="75" height="75"/> - </a> 
+<a href="https://react.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJs" width="75" height="75"/> - </a> 
 <a href="https://www.phoenixframework.org/" target="_blank"> <img src="https://www.aworldforus.com/wp-content/uploads/2022/05/phoenix-elixir.jpg" alt="elixir" width="65" height="65"/> - </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="git" width="65" height="85"/> </a> 
