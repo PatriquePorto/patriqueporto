@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at New Style Provedor de Internet
 - ✨ I'm a  Front-End Developer: HTML5, CSS3, JAVASCRIPT, JQUERY & REACT. 
-- 🌱 I’m currently learning: NEXTJS,TAILWIND CSS, REACT, TYPESCRIPT, MYSQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW & ELIXIR,.
+- 🌱 I’m currently learning: NEXTJS, TAILWINDCSS, REACT, TYPESCRIPT, MYSQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW & ELIXIR,.
 - 📫 How to reach me: @patriqueporto
 
 <h3 align="left">Languages and Tools:</h3>
