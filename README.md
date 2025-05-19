@@ -8,7 +8,9 @@
 
 
 - 🔭 I’m currently working at New Style Provedor de Internet
-- ✨ I'm a  Front-End Developer: HTML5, CSS3, JAVASCRIPT, JQUERY & REACT. 
+- ✨ I am a self-taught Front-End Developer from Brazil.
+Passionate and motivated 🚀 Front-End Developer eager to kickstart a successful career in the dynamic world of web development.
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with HTML5, CSS3, Bootstrap, JavaScript, React and some other cool libraries and frameworks. 
 - 🌱 I’m currently learning: NEXTJS, TAILWINDCSS, REACT, TYPESCRIPT, MYSQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW & ELIXIR,.
 - 📫 How to reach me: @patriqueporto
 
