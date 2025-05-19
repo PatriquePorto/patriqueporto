@@ -8,7 +8,7 @@
 
 <div dir="auto">
   <p align="center">
-     - 🔭 I’m currently working at New Style Provedor de Internet
+     - 🔭 I’m currently working at New Style Provedor de Internet  </br>
 - ✨ <b>I am a self-taught Front-End Developer from Brazil.</b> 
   </br>
 Passionate and motivated 🚀 Front-End Developer eager to kickstart a successful career in the dynamic world of web development.
