@@ -3,7 +3,7 @@
 
 
 
-### Hi there <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+### Hi there <img alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 
 
