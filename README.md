@@ -67,13 +67,14 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 </div>
 
+<h2 class="heading-element" dir="auto">Connect with me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/patrique.porto/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/patrique-pereira-porto-82b76610a/"" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/patriqueporto/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="" height="30" width="40" /></a>
-</p>
+<p dir="auto"><a href="https://www.linkedin.com/in/keerti-vishwkarma-8ba754243" rel="nofollow"><img src="https://camo.githubusercontent.com/c4672166e25415cd8392e9b9a34feb8be4bed9060b8a4679a4688238b90a0291/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+<a href="https://twitter.com/keertivishwkarma" rel="nofollow"><img src="https://camo.githubusercontent.com/9f27b40576f6daefe33038cba34cd7ff58b5852523e4b804f27f764e33af7659/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/twitter.png" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/keertivishwkarma1924/" rel="nofollow"><img src="https://camo.githubusercontent.com/fd80ac5978133ccb1cc16d57ce19ca191097d450ce37a09a136e405f9191bf22/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/keerti.vishwkarma" rel="nofollow"><img src="https://camo.githubusercontent.com/d696d2b5049fc05bd790cb08eb2ecb33efe9f94c5f753e10a90242c915a3ec81/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook.png" style="max-width: 100%;"></a>
+<a href="https://codepen.io/Keerti-Vishwkarma" rel="nofollow"><img src="https://camo.githubusercontent.com/343a9d9c8b1461c0d6283cc4040f03081c5873abf58d8cda0cba57fdc8b3f4dd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f636f646570656e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/codepen.png" style="max-width: 100%;"></a>
+<a href="https://github.com/keerti1924"><img src="https://camo.githubusercontent.com/59459d2f1354cd766d0c10b5f69b8eda54e0aa1956006602944f8c865fad09f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;"></a></p>
 
 <h3 align="left">My web site portfolio</h3>
 <p align="left">
