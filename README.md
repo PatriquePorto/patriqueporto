@@ -3,7 +3,8 @@
 
 
 ### Hi there 👋
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+
+<img align="right" alt="Coding" width="350" height="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 - 🔭 I’m currently working at New Style Provedor de Internet
 - ✨ I'm a  Front-End Developer: HTML5, CSS3, JAVASCRIPT, JQUERY & REACT. 
