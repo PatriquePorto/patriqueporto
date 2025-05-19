@@ -83,7 +83,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <a href="https://www.facebook.com/patriqueporto" rel="nofollow"><img src="https://camo.githubusercontent.com/d696d2b5049fc05bd790cb08eb2ecb33efe9f94c5f753e10a90242c915a3ec81/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook.png" style="max-width: 100%;"></a>
 <a href="https://github.com/patriqueporto"><img src="https://camo.githubusercontent.com/59459d2f1354cd766d0c10b5f69b8eda54e0aa1956006602944f8c865fad09f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;"></a></p>
 
-<h3 align="left">My web site portfolio</h3>
+<h2 class="heading-element" dir="auto">My web site portfolio</h2>
 <p align="left">
 <a href="https://portfolio-patrique-porto.vercel.app/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1084/1084269.png" alt="" height="30" width="40"/></a>
 </p>
