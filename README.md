@@ -6,13 +6,18 @@
 ### Hi there <img alt="Coding" width="25" height="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Patrique Porto!
 
 
-
-- 🔭 I’m currently working at New Style Provedor de Internet
-- ✨ I am a self-taught Front-End Developer from Brazil.
+<div dir="auto">
+  <p align="center">
+     - 🔭 I’m currently working at New Style Provedor de Internet
+- ✨ <b>I am a self-taught Front-End Developer from Brazil.</b> 
+  </br>
 Passionate and motivated 🚀 Front-End Developer eager to kickstart a successful career in the dynamic world of web development.
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with HTML5, CSS3, Bootstrap, JavaScript, React and some other cool libraries and frameworks. 
+  </br>
 - 🌱 I’m currently learning: NEXTJS, TAILWINDCSS, REACT, TYPESCRIPT, MYSQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW & ELIXIR,.
 - 📫 How to reach me: @patriqueporto
+  </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
