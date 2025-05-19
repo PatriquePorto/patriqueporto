@@ -12,7 +12,7 @@
 - ✨ <b>I am a self-taught Front-End Developer from Brazil.</b> 
   </br>
 Passionate and motivated 🚀 Front-End Developer eager to kickstart a successful career in the dynamic world of web development.  </br> </br>
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with: HTML5, CSS3, JavaScript, Bootstrap, Jquery, React and some other cool libraries and frameworks. 
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with: HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Jquery, React and some other cool libraries and frameworks. 
   </br>
 - 🌱 I’m currently learning: MYSQL, POSTGRESQL, NODE, PHOENIX LIVEVIEW & ELIXIR,. </br>
 - 📫 How to reach me: @patriqueporto
