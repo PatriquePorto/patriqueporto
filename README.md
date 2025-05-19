@@ -1,10 +1,11 @@
-<img align="right" alt="Coding" width="350" height="280" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752">
+
+<!--<img align="right" alt="Coding" width="350" height="280" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752"> -->
 
 
 
-### Hi there 👋
+### Hi there <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-<img align="right" alt="Coding" width="350" height="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+
 
 - 🔭 I’m currently working at New Style Provedor de Internet
 - ✨ I'm a  Front-End Developer: HTML5, CSS3, JAVASCRIPT, JQUERY & REACT. 
