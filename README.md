@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center" class="heading-element" dir="auto">### Hi there <img alt="Coding" width="25" height="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Patrique Porto!</h1> 
+<h1 align="center" class="heading-element" dir="auto">Hi there <img alt="Coding" width="25" height="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Patrique Porto!</h1> 
 
 
 <div dir="auto">
