@@ -39,7 +39,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
   <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs" title="NextJs" data-canonical-src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
   <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="Typescript" title="Typescript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
    <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white" alt="Elixir" title="Elixir" data-canonical-src="https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white" style="max-width: 100%; width: 90px; height: 28px"></a>
-   <img src="https://graffino.com//_nuxt/img/71f0d25.jpg" > 
+   <img src="https://graffino.com//_nuxt/img/71f0d25.jpg" style="with:80px; height: 50px" > 
 
 </p>
 
