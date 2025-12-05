@@ -24,7 +24,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patriqueporto&show_icons=true&locale=en" alt="patriqueporto" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriqueporto&" alt="patriqueporto" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriqueporto&show_icons=true&locale=en&layout=compact" alt="patriqueporto" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PatriquePorto-ma&theme=dracula" alt="patriqueporto" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="patriqueporto" /></a></p>
 <!--<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriqueporto" alt="patriqueporto" /></a></p>-->
 
 
