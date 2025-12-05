@@ -37,7 +37,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,react,tailwind,nextjs,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,tailwind,react,nextjs,ts" />
   </a>
 </p>
 
