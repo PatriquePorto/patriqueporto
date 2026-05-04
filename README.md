@@ -132,7 +132,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow">linkedin</a>,twitter,instagram,github" />
+    <img src="https://skillicons.dev/icons?i=<a>linkedin</a>,twitter,instagram,github" />
   </a>
 </p>
 
