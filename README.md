@@ -25,6 +25,8 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriqueporto&" alt="patriqueporto" /></p>
 
+ ![preview](Techstack.jpeg)
+
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patriqueporto&show_icons=true&locale=en" alt="patriqueporto" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patriqueporto&show_icons=true&locale=en&layout=compact" alt="patriqueporto" /></p>
@@ -146,6 +148,3 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p align="left">
 <a href="https://portfolio-patrique-porto.vercel.app/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1084/1084269.png" alt="" height="30" width="40"/></a>
 </p>
-
- ![preview](Techstack.jpeg)
-
