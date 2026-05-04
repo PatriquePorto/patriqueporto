@@ -18,11 +18,11 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 - 📫 How to reach me: @patriqueporto
   </p>
 
-</div>
+  ### 🎥 Demo
 
-  <video width="600" controls>
-     <source src="techstrack.mp4" type="video/mp4">
-  </video>
+[![Veja o vídeo](techstack.mp4)]
+
+</div>
 
 <h1></h1>
 <p></p>
