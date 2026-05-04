@@ -99,8 +99,6 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
   
 <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 28px; height: 28px"></a>
 
-<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 28px; height: 28px"></a>
-
 
 </div>
 
