@@ -24,6 +24,10 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 </div>
 
+<video width="600" controls>
+  <source src="techstack.mp4" type="video/mp4">
+</video>
+
 <h1></h1>
 <p></p>
 
