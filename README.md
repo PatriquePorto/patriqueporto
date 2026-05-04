@@ -9,9 +9,9 @@
 <div dir="auto">
   <p align="center">
      - 🔭 I’m currently working at New Style Provedor de Internet  </br>
-- ✨ <b>I am a self-taught Front-End Developer from Brazil.</b> 
+- ✨ <b>I am a self-taught Fullstack Developer from Brazil.</b> 
   </br>
-Passionate and motivated 🚀 Front-End Developer eager to kickstart a successful career in the dynamic world of web development.  </br> </br>
+Passionate and motivated 🚀 Fullstack Developer eager to kickstart a successful career in the dynamic world of web development.  </br> </br>
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with: HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Jquery, React and some other cool libraries and frameworks. 
   </br>
 - 🌱 I’m currently learning: GSAP ANIMATIONS, MYSQL, POSTGRESQL, NODE & GO. </br>
@@ -46,7 +46,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,postgres" />
   </a>
 </p>
 
@@ -128,6 +128,13 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 </div>
 
 <h2 class="heading-element" dir="auto">Connect with me: </h2>
+
+<p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,github" />
+  </a>
+</p>
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow"><img src="https://camo.githubusercontent.com/c4672166e25415cd8392e9b9a34feb8be4bed9060b8a4679a4688238b90a0291/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
