@@ -147,5 +147,5 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <a href="https://portfolio-patrique-porto.vercel.app/" target="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1084/1084269.png" alt="" height="30" width="40"/></a>
 </p>
 
- ![preview](Techstack.jpg)
+ ![preview](Techstack.jpeg)
 
