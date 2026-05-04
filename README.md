@@ -18,7 +18,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 - 📫 How to reach me: @patriqueporto
   </p>
 
-  ![preview](Techstack.jpeg)
+  ![preview](techstack.mp4)
 </div>
 
 <h1></h1>
