@@ -97,13 +97,13 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
-  <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome/chrome.svg?sanitize=true" alt="Google Chrome" data-canonical-src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome/chrome.svg?sanitize=true" style="width: 20px; height: 20px ; border-radius: 10px"></a>
+  <a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome/chrome.svg?sanitize=true" alt="Google Chrome" data-canonical-src="https://raw.githubusercontent.com/alrra/browser-logos/a94987f29719142668cdf960b3f624ce1a3c6aa8/src/chrome/chrome.svg?sanitize=true" style="width: 15px; height: 15px ; border-radius: 10px"></a>
   
-<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 20px; height: 20px"></a> 
+<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 15px; height: 15px"></a> 
 
-<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 20px; height: 20px"></a> 
+<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 15px; height: 15px"></a> 
 
-<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 20px; height: 20px"></a> 
+<a href="https://github.com/patriqueporto?tab=repositories"><img src="https://raw.githubusercontent.com/alrra/browser-logos/896ab303b43decd25c518ea5dc0081e6974d344a/src/brave/brave.svg?sanitize=true" alt="Brave" title="Brave" data-canonical-src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&amp;logo=Brave&amp;logoColor=white" style="width: 15px; height: 15px"></a> 
 
 
 
