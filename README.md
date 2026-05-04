@@ -136,11 +136,11 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <h2 class="heading-element" dir="auto">Connect with me: </h2>
 
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" data-canonical-src="" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg"  style="width: 50px; height: 50px" data-canonical-src="" style="max-width: 100%;"></a>
 <a  href="https://x.com/patriquedev" rel="nofollow"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" data-canonical-src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" style="max-width: 100%; width: 45px; height: 40px;"></a>
-<a href="https://www.instagram.com/patriqueporto/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/patriqueporto/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg"  style="width: 50px; height: 50px";"></a>
 <a href="https://www.facebook.com/patriqueporto" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="width: 50px; height: 50px" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook.png" style="max-width: 100%;"></a>
-<a href="https://github.com/patriqueporto"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;"></a></p>
+<a href="https://github.com/patriqueporto"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg"  style="width: 50px; height: 50px" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;"></a></p>
 
 <h2 class="heading-element" dir="auto">My web site portfolio</h2>
 <p align="left">
