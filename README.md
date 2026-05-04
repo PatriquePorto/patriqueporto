@@ -129,15 +129,8 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 <h2 class="heading-element" dir="auto">Connect with me: </h2>
 
-<p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=<a>linkedin</a>,twitter,instagram,github" />
-  </a>
-</p>
-
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow"><img src="https://camo.githubusercontent.com/c4672166e25415cd8392e9b9a34feb8be4bed9060b8a4679a4688238b90a0291/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/patrique-p-porto-82b76610a/" rel="nofollow"><img src="https://camo.githubusercontent.com/c4672166e25415cd8392e9b9a34feb8be4bed9060b8a4679a4688238b90a0291/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>" style="max-width: 100%;"></a>
 <a  href="https://x.com/patriquedev" rel="nofollow"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" data-canonical-src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" style="max-width: 100%; width: 45px; height: 40px;"></a>
 <a href="https://www.instagram.com/patriqueporto/" rel="nofollow"><img src="https://camo.githubusercontent.com/fd80ac5978133ccb1cc16d57ce19ca191097d450ce37a09a136e405f9191bf22/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/patriqueporto" rel="nofollow"><img src="https://camo.githubusercontent.com/d696d2b5049fc05bd790cb08eb2ecb33efe9f94c5f753e10a90242c915a3ec81/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f66616365626f6f6b2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook.png" style="max-width: 100%;"></a>
