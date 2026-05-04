@@ -19,14 +19,11 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
   </p>
 
   ### 🎥 Demo
-
-[![Veja o vídeo](techstack.mp4)]
+  
+[![Veja o vídeo](techstack.mp4)
 
 </div>
 
-<video width="600" controls>
-  <source src="techstack.mp4" type="video/mp4">
-</video>
 
 <h1></h1>
 <p></p>
