@@ -20,7 +20,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
   ### 🎥 Demo
   
-[![Veja o vídeo](techstack.mp4)
+![Veja o vídeo](techstack.mp4)
 
 </div>
 
