@@ -28,9 +28,34 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
   Desenvolvedor Fullstack com foco em experiências modernas, animações fluidas, interfaces SaaS-level e aplicações performáticas.
 </p>
 
- ![preview](Techstack.jpeg)
+<!-- ![preview](Techstack.jpeg) TECHSTACK IMAGE -->
 
 </div>
+
+⚡ Tech Stack
+🎨 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,jquery" /> </p>
+⚙️ Backend & Database
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,go,postgres,prisma,firebase" /> </p>
+🛠️ Tools & Ecosystem
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,bash,figma,vercel" /> </p>
+🎥 Featured Project Demo
+<div align="center">
+
+</div>
+🧠 Especialidades
+
+✅ Landing Pages de Alta Conversão
+✅ UI/UX Moderna
+✅ Design Responsivo
+✅ Animações com GSAP
+✅ Performance Optimization
+✅ SEO para Frontend
+✅ Arquitetura Frontend Escalável
+✅ Componentização React
+✅ Aplicações SaaS
+✅ Dark Mode
+✅ Internacionalização (i18n)
 
 
 <h1></h1>
