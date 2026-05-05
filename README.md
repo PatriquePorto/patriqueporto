@@ -167,10 +167,10 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 </div>
 
 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriqueporto&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriqueporto&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatriquePorto&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriquePorto&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=PatriquePorto&theme=tokyonight&hide_border=true"/> </div>
 
 <h2 class="heading-element" dir="auto">Connect with me: </h2>
 
