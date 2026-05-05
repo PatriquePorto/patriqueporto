@@ -32,32 +32,6 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 </div>
 
-⚡ Tech Stack
-🎨 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,jquery" /> </p>
-⚙️ Backend & Database
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,go,postgres,prisma,firebase" /> </p>
-🛠️ Tools & Ecosystem
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,bash,figma,vercel" /> </p>
-🎥 Featured Project Demo
-<div align="center">
-
-</div>
-🧠 Especialidades
-
-✅ Landing Pages de Alta Conversão
-✅ UI/UX Moderna
-✅ Design Responsivo
-✅ Animações com GSAP
-✅ Performance Optimization
-✅ SEO para Frontend
-✅ Arquitetura Frontend Escalável
-✅ Componentização React
-✅ Aplicações SaaS
-✅ Dark Mode
-✅ Internacionalização (i18n)
-
-
 <h1></h1>
 <p></p>
 
@@ -72,21 +46,21 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patriqueporto" alt="patriqueporto" /></a></p> -->
 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💻 My Frontend Tech Stack: </h2><a id="user-content-️-web-development" class="anchor" aria-label="Permalink:💻 Web Development" href="#️-web-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"> <!--💻 -->⚡ Tech Stack 🎨 Frontend </h2><a id="user-content-️-web-development" class="anchor" aria-label="Permalink:💻 Web Development" href="#️-web-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,tailwind,react,nextjs,ts" />
+    <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,jquery" /> </p>
   </a>
 </p>
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">👨‍💻 My Backend Tech Stack: </h2><a id="user-content-️-web-development" class="anchor" aria-label="Permalink:💻 Web Development" href="#️-web-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"><!--👨‍💻 --> ⚙️ Backend & Database </h2><a id="user-content-️-web-development" class="anchor" aria-label="Permalink:💻 Web Development" href="#️-web-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,postgres" />
+   <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,go,postgres,prisma" /> </p>
   </a>
 </p>
 
@@ -106,12 +80,12 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 </div>
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🍧 Design Tools: </h2><a id="user-content--design-tools" class="anchor" aria-label="Permalink: 🍧 Design Tools" href="#-design-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"> <!--🍧 --> 🛠️ Tools & Ecosystem </h2><a id="user-content--design-tools" class="anchor" aria-label="Permalink: 🍧 Design Tools" href="#-design-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 
 <p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
+    <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,bash,figma,vercel" /> </p>
   </a>
 </p>
 
@@ -120,13 +94,6 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 </div>
 
-<h2 class="heading-element" dir="auto">🛠️ Developers Tools: </h2>
-<p dir="auto"><a href="https://github.com/patriqueporto?tab=repositories">
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,linux,git" />
-  </a>
-</p>
   
   <!--<img src="https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" title="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 <img src="https://camo.githubusercontent.com/a51e51b2f53e6540a4e91687c75290bb4f330a720dc4b68ef60af631a01667fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" title="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;">
@@ -159,6 +126,31 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 <!--<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1cc3ed014dbb3cc907789013096c44d0bc78875ee219d9455f619ff18059ac4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1cc3ed014dbb3cc907789013096c44d0bc78875ee219d9455f619ff18059ac4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd44c065577f813a8d6c976fef88976f812eed4bfcfa20fa6b23ebb899a09531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/dd44c065577f813a8d6c976fef88976f812eed4bfcfa20fa6b23ebb899a09531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"></a></p> -->
+
+🧠 Especialidades
+
+✅ Landing Pages de Alta Conversão 
+
+✅ UI/UX Moderna
+
+✅ Design Responsivo
+
+✅ Animações com GSAP
+
+✅ Performance Optimization
+
+✅ SEO para Frontend
+
+✅ Arquitetura Frontend Escalável
+
+✅ Componentização React
+
+✅ Aplicações SaaS
+
+✅ Dark Mode
+
+✅ Internacionalização (i18n)
+
 
 </div>
 
