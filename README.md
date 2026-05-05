@@ -1,67 +1,4 @@
-<!-- ========================================= -->
-<!--               HERO SECTION                -->
-<!-- ========================================= -->
 
-<h1 align="center">
-  🚀 Patrique Pereira Porto
-</h1>
-
-<h3 align="center">
-  Frontend Developer • UI/UX Enthusiast • React & Next.js Specialist
-</h3>
-
-<p align="center">
-  Desenvolvedor Frontend com foco em experiências modernas, animações fluidas, interfaces SaaS-level e aplicações performáticas.
-</p>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-
-</div>
-
----
-
-# 👨‍💻 Sobre Mim
-
-```ts
-const patrique = {
-  role: "Frontend Developer",
-  experience: "5+ years",
-  stack: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "ReactJS",
-    "NextJS",
-    "TailwindCSS",
-    "Bootstrap",
-    "Sass",
-    "jQuery",
-    "Node.js",
-    "PostgreSQL"
-  ],
-  focus: [
-    "UI/UX",
-    "Animations",
-    "Performance",
-    "SaaS Interfaces",
-    "Responsive Design",
-    "Frontend Architecture"
-  ],
-  currentlyLearning: [
-    "Go",
-    "Rust",
-    "Elixir",
-    "AI Engineering"
-  ]
-}
 
 
 <!--<img align="right" alt="Coding" width="350" height="280" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752"> -->
@@ -77,11 +14,19 @@ const patrique = {
 - ✨ <b>I am a self-taught Fullstack Developer from Brazil.</b> 
   </br>
 Passionate and motivated 🚀 Fullstack Developer eager to kickstart a successful career in the dynamic world of web development.  </br> </br>
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Front-End Developer having an experience of building Websites with: HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Jquery, React and some other cool libraries and frameworks. 
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Fullstack Developer having an experience of building Websites with: HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Jquery, React and some other cool libraries and frameworks. 
   </br>
 - 🌱 I’m currently learning: GSAP ANIMATIONS, MYSQL, POSTGRESQL, NODE & GO. </br>
 - 📫 How to reach me: @patriqueporto
   </p>
+
+  <h3 align="center">
+ Fullstack Developer • UI/UX Enthusiast • React & Next.js Specialist
+</h3>
+
+<p align="center">
+  Desenvolvedor Fullstack com foco em experiências modernas, animações fluidas, interfaces SaaS-level e aplicações performáticas.
+</p>
 
  ![preview](Techstack.jpeg)
 
