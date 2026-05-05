@@ -143,7 +143,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 ✅ Frontend SEO 
 
-✅ Scalable Fronend Architecture
+✅ Scalable Frontend Architecture
 
 ✅ React Componentization
 
