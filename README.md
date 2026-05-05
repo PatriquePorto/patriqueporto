@@ -187,7 +187,6 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patriqueporto&theme=city_lights)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patriqueporto&theme=city_lights)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patriqueporto&theme=city_lights)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patriqueporto&theme=city_lights)
