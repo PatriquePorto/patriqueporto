@@ -36,7 +36,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <p></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriqueporto&" alt="patriqueporto" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriqueporto&" alt="patriqueporto" /></p> -->
 
  
 <!-- 
